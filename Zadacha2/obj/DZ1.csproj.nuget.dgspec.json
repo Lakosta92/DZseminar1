@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\DZ1\\DZ1.csproj": {}
+    "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\Zadacha2\\DZ1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\DZ1\\DZ1.csproj": {
+    "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\Zadacha2\\DZ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\DZ1\\DZ1.csproj",
+        "projectUniqueName": "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\Zadacha2\\DZ1.csproj",
         "projectName": "DZ1",
-        "projectPath": "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\DZ1\\DZ1.csproj",
+        "projectPath": "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\Zadacha2\\DZ1.csproj",
         "packagesPath": "C:\\Users\\Lakosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\DZ1\\obj\\",
+        "outputPath": "C:\\Users\\Lakosta\\Desktop\\SEMINAR\\Zadacha2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lakosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
